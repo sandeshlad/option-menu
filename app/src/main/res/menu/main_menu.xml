@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:title="New"
+        android:id="@+id/new1"
+        />
+
+    <item
+
+        android:title="Open"
+        android:id="@+id/open1"
+        />
+    <item
+
+        android:title="Save"
+        android:id="@+id/save1"
+        />
+    <item
+
+        android:title="Exit"
+        android:id="@+id/exit1"
+        />
+
+
+</menu>
